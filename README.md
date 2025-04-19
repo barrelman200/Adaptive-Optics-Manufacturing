@@ -1,2 +1,2 @@
 # Adaptive-Optics-Manufacturing
-Phase mask generation files used in 3YP
+MATLAB program that implements the Gerchberg-Saxton algorithm to generate multiple foci, using a phase mask written onto a SLM.
